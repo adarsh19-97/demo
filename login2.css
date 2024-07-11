@@ -1,0 +1,58 @@
+body{
+    background-color : rgb(183, 172, 248);
+    overflow: hidden;
+}
+.container{
+    background-image:url("login2.jpg") ;
+    border-radius: 20px;
+    height: 675px;
+    width: 1000px;
+    margin-left:210px ;
+    margin-top: 40px;
+   
+
+}
+.container1{
+    border-radius: 20px;
+    height: 380px;
+    width: 400px;
+    background-color: rgba(163, 151, 255, 0.104);
+    margin:auto;
+    padding-top: 25px;
+    position: relative;
+    top:20px;
+    border :1px solid white;
+
+
+}
+.button1{
+    border-radius: 30px;
+    height:50px;
+    width :280px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin-left: 68px;
+    margin-top: 30px;
+    border:none;
+
+}
+.username {
+    border-radius: 30px;
+    border: 1px solid white;
+    height: 50px;
+    width: 280px;
+    margin-left: 65px;
+    background-color: rgba(64, 224, 208, 0);
+    margin-top: 22px;
+    font-style:initial;
+    
+}
+.username::placeholder{
+    color: white;
+}
+.a{
+  margin-left:95px ;  
+}
+.p{
+    margin-left: 70px;
+}
